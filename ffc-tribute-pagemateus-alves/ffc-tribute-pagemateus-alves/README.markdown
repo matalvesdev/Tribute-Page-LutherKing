@@ -1,5 +1,5 @@
 # FFC: Tribute Page - Mateus Alves
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/mfalves96/pen/jOwaxvg](https://codepen.io/mfalves96/pen/jOwaxvg).
-
 Tribute Page made as a FreeCodeComp practical exercise, this project is part of the completion of the Responsive Web Design Course. Project by Mateus Alves.
+
+Página de tributo feita como exercício prático do FreeCodeComp, este projeto faz parte da realização do Curso de Web Design Responsivo. Projeto de Mateus Alves.
